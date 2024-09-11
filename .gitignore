@@ -1,4 +1,8 @@
+src/main/bundles/
 target/
+.vscode/
+.DS_Store
+
 
 # The following files are generated/updated by Hilla
 node_modules/
